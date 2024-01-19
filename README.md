@@ -21,7 +21,7 @@ This approach allows me to focus on the small details without feeling overwhelme
 
 <h4>How is your website creative?</h4>
 <br>I find designing the layout of my website creative and simple while experimenting with various principles and responsive design to be enjoyable. 
-This enables me to display my skills and experiences in an engaging and visually attractive way, ensuring that the users find the content interesting.</br>'
+This enables me to display my skills and experiences in an engaging and visually attractive way, ensuring that the users find the content interesting.</br>
 
 <h4>What did you use to deploy your website?</h4>
 
