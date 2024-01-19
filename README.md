@@ -38,3 +38,17 @@ This has enabled me to create visually appealing websites that have seamless nav
 
 <h2>Struggles that you have encountered while accomplishing LT0, LT1, and M1M2 (Guided Exercise 1)</h2>
 
+<br>I had trouble uploading my work for learning tasks 0 and 1 and also faced issues during the guided exercise. 
+However, my professor and classmates were ready to help me with valuable support to resolve these problems.
+It can be overwhelming to navigate through all the functions while working on my tasks.
+I faced a challenge in implementing complex CSS animations for certain elements on my tasks. However, with the help of online resources and collaborative discussions with my peers, 
+I was able to overcome this and finish my learning task smoothly.</br>
+
+<h2>How could I improve my website in the future</h2>
+<br> In order to improve the performance of my website in the future, I need to focus on minimizing the usage of animations and adding an appropriate design. It is crucial to ensure that my website is easy to use for all users. Additionally, I should prioritize accessibility and update my security measures to protect my website from potential threats and hackers. By using analytics tools, I can enhance and develop my website to be more secure for all users. </br>
+
+<h2>Other thoughts that might be noteworthy</h2>
+
+<br>Learning a course like web development is a slow process, but every step forward helps me enhance my knowledge and skills to create websites that can make a positive impact on others. During this journey, I will celebrate small victories and consider every challenge as an opportunity to grow. By committing to this practice, I will be better equipped to excel in my work and achieve my goal of solving an occurring problem. This course will serve as a valuable resource, allowing me to reflect on my progress and develop my approach as I navigate the intricacies of web development.</br>
+
+
